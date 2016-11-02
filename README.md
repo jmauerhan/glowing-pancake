@@ -14,6 +14,7 @@
     - `extension_dir = "ext"`
 - Docker for Windows: https://docs.docker.com/docker-for-windows/
 - Slack: https://slack.com/downloads/windows
+- PHPStorm: https://www.jetbrains.com/phpstorm/download/#section=windows-version
 
 ## Other
 

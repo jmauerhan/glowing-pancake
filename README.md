@@ -12,6 +12,7 @@
   - x64 Non Thread Safe
   - php.ini
     - `extension_dir = "ext"`
+- Composer: https://getcomposer.org/download/
 - Docker for Windows: https://docs.docker.com/docker-for-windows/
 - Slack: https://slack.com/downloads/windows
 - PHPStorm: https://www.jetbrains.com/phpstorm/download/#section=windows-version

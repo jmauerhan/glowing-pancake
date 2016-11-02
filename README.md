@@ -7,6 +7,7 @@
   - CoreUtils: http://gnuwin32.sourceforge.net/packages/coreutils.htm
 - Git: https://git-scm.com/download/win
   - Generate SSH Key: https://github.com/settings/keys
+  - Alias: `git config --global alias.st status`
 - PHP: http://windows.php.net/qa/ 
   - x64 Non Thread Safe
   - php.ini

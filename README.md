@@ -11,6 +11,7 @@
 - PHP: http://windows.php.net/qa/ 
   - x64 Non Thread Safe
   - php.ini
+    - `extension_dir = "ext"`
 - Docker for Windows: https://docs.docker.com/docker-for-windows/
 
 ## Other

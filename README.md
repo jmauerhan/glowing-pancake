@@ -2,7 +2,7 @@
 
 - Chrome: https://www.google.com/chrome/
 - ConEmu: https://www.fosshub.com/ConEmu.html
-  - Settings File:
+  - Settings File: https://github.com/jmauerhan/glowing-pancake/blob/master/settings/conemu.xml
 - GnuWin32: http://gnuwin32.sourceforge.net/packages.html
   - CoreUtils: http://gnuwin32.sourceforge.net/packages/coreutils.htm
 - Git: https://git-scm.com/download/win

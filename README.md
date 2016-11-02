@@ -13,6 +13,7 @@
   - php.ini
     - `extension_dir = "ext"`
 - Docker for Windows: https://docs.docker.com/docker-for-windows/
+- Slack: https://slack.com/downloads/windows
 
 ## Other
 

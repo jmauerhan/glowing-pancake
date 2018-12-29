@@ -16,8 +16,6 @@
 - Docker for Windows: https://docs.docker.com/docker-for-windows/
 - Slack: https://slack.com/downloads/windows
 - PHPStorm: https://www.jetbrains.com/phpstorm/download/#section=windows-version
-- Pritunl: https://client.pritunl.com/
-- Visual Studio Code: https://code.visualstudio.com/
 
 ## Other
 
